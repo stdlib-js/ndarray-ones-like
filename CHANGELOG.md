@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-18)
+## Unreleased (2026-09-28)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`0fc57ae`](https://github.com/stdlib-js/stdlib/commit/0fc57ae60dd9acfefb3dc8cc9d489a02190a4936) - **docs:** fix description [(#15322)](https://github.com/stdlib-js/stdlib/pull/15322) _(by Philipp Burckhardt)_
 -   [`51a1812`](https://github.com/stdlib-js/stdlib/commit/51a1812de06d6c40a104be53b92515c8e6fb9809) - **feat:** add float16 dtype support to `ndarray/ones-like` [(#15277)](https://github.com/stdlib-js/stdlib/pull/15277) _(by Samarth Kolarkar)_
 -   [`1977f92`](https://github.com/stdlib-js/stdlib/commit/1977f92944b56c40c27b23d74570f2958adc7a39) - **docs:** update documented default value for `submode` option [(#13106)](https://github.com/stdlib-js/stdlib/pull/13106) _(by Philipp Burckhardt)_
 -   [`0293981`](https://github.com/stdlib-js/stdlib/commit/0293981bc2e4dcdf3ec3f570c9326c049fe40b2c) - **docs:** replace \"array\" with \"ndarray\" in various type declarations [(#12828)](https://github.com/stdlib-js/stdlib/pull/12828) _(by Philipp Burckhardt)_
